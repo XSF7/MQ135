@@ -12,4 +12,9 @@ The Code written for the ESP32 Devices, to read the MQ135 Sensor
     
  Usage :
   Make sure you connect the MQ135 as shown in the Pictures Folders or change the Analog Input Pin of your board in the Code
+  PIN : 34
+  
+ Web Server :
+  - Port 80
+  - No Authentification
     
